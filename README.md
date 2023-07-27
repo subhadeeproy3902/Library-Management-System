@@ -21,7 +21,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Contact: [subha9.5roy350@gmail.com]
 
 ## License
-[Apache]()
+[MIT LICENSE © Library-Management-System](https://github.com/subhadeeproy3902/Library-Management-System/blob/main/LICENSE)
 
 
 ## 🙋‍♂️ Support
